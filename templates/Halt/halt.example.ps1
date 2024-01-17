@@ -1,5 +1,5 @@
 $haltDictionary = @{
-  'docker' = 'Docker Desktop';
+  'app1' = 'Application 1';
 }
 
 function halt {
